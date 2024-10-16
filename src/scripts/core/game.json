@@ -1,0 +1,32 @@
+{
+    "game": {
+        "resolution": {
+            "x": 1024,
+            "y": 768
+        },
+        "context": "none",
+        "settings": {
+            "game": {
+                "isDebug": true
+            },
+            "audio": {
+                "musicVolume": 100,
+                "gameVolume": 100,
+                "isMuted": false
+            },
+            "video": {
+                "isFullscreen": true
+            },
+            "debug": {
+                "isFPScounterActive": true,
+                "isVerboseConsole": true,
+                "isForceResolution": false,
+                "forcedResolution": {
+                    "x": 2000,
+                    "y": 2000
+                }
+            }
+        },
+        "workspace": {}
+    }
+}
